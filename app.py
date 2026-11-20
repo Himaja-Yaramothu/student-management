@@ -20,7 +20,7 @@ HTML = """
     </style>
 </head>
 <body>
-    <h1>Student Management System</h1>
+    <h1>Student Management Portal</h1>
     <form method="POST" action="/add">
         <input name="name" placeholder="Student name" required>
         <input name="course" placeholder="Course" required>
