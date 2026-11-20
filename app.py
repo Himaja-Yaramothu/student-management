@@ -9,7 +9,7 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Student Management</title>
+    <title>Student Management Portal</title>
     <style>
         body { font-family: Arial; margin: 40px; background: #f3f6fb; }
         h1 { color: #244a82; }
